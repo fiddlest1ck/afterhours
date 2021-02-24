@@ -1,0 +1,24 @@
+# IDE
+.emacs.desktop
+.emacs.desktop.lock
+.idea/
+.vscode
+
+# python compiled files
+__pycache__
+
+# temporary files
+.coverage
+*~
+
+# environment variables
+.env
+
+# pyenv
+.python-version
+
+# compiled translation files
+*.mo
+
+media/
+static/
