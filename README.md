@@ -1,8 +1,8 @@
 # afterhours
-enpoint:
+endpoint:
 /api/v1/callendar
 
-I changed color names to hex for clean webcolor py lib usage.
+I have changed color names to hex for clean webcolor py lib usage.
 
 I spent too much time on v-calendar API.
 
